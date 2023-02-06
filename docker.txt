@@ -1,1 +1,1 @@
-Docker é um Gerenciador de Containers
+Docker é um Gerenciador de Containers.
